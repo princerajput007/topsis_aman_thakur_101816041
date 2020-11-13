@@ -14,8 +14,8 @@ setup(
   description = 'This library helps in implementing topsis method',   # Give a short description about your library
   author = 'Aman Thakur',                   # Type in your name
   author_email = 'athkur1_be18@thapar.edu',      # Type in your E-Mail
-  url = 'https://github.com/blackdog1520/Topsis_Ashish_101816004',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/blackdog1520/Topsis_Ashish_101816004/archive/0.1.tar.gz',    # I explain this later on
+  url = 'https://github.com/princerajput007/topsis_aman_thakur_101816041',   # Provide either the link to your github or to your website
+  download_url = 'https://github.com/princerajput007/topsis_aman_thakur_101816041/archive/v1.0.tar.gz',    # I explain this later on
   keywords = ['SIMPLE', 'TOPSIS'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'os',
